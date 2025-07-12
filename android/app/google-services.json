@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844635612936",
+    "project_id": "paradisehostel-1566e",
+    "storage_bucket": "paradisehostel-1566e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844635612936:android:01ae85895223a0aa072ebd",
+        "android_client_info": {
+          "package_name": "com.example.paradise_hostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_OrKb_iR9-IO1as3wYUt1GWbKYAs7ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
