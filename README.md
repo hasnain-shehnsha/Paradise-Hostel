@@ -1,16 +1,16 @@
-# paradise_hostel
+# Paradise Hostel (Admin Panel)
 
-A new Flutter project.
+🎓 Semester Project  
+👨‍🏫 Guided by Sir Hassan Sardar  
+📱 Built with Flutter + Firebase + Riverpod  
+🔐 Admin Panel for Hostel Management
 
-## Getting Started
+## Features
+- Hostel & Room Management
+- Student Management
+- Rent & Billing
+- Dashboard Analytics
+- Document Upload
+- Maintenance Requests
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Developed as part of Mobile Application Development coursework.
